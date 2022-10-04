@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+.odobus-image {
+    height: 600px;
+}
+
+.coming {
+    font-family: Poppins;
+    text-align: center;
+    font-size: 50px;
+    color: #599e00;
+}
